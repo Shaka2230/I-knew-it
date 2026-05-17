@@ -1,0 +1,9 @@
+learningtoprogram/HELP.md
+learningtoprogram/.gradle
+learningtoprogram/build/
+learningtoprogram/gradle/wrapper/gradle-wrapper.jar
+learningtoprogram/**/src/main/**/build/
+learningtoprogram/**/src/test/**/build/
+
+### VS Code ###
+.vscode/
